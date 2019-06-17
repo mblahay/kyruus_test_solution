@@ -1,3 +1,10 @@
+I found the below test to be interesting and wanted to see if I could improve upon it in any way.
+The time limit I was given was 90 minutes, which I do not believe to be realistic, so any solution
+given here does not adhere to that limit. The test itself appears to require obsolete versions of
+python as well as libraries which should be updated, so I will alter the requirements to keep it
+updated with industry standards.
+
+
 # README #
 
 This repository contains the outlines of a web API.
